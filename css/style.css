@@ -1,0 +1,19 @@
+h1 {
+    color: darkred
+;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    width: 30;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.imgdiv {
+    background-color: lightcoral;
+    box-shadow: 2px 2px 5px black;
+    margin: 10px;
+}
